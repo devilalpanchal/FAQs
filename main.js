@@ -1,6 +1,6 @@
 let answer = document.querySelector(".answer")
 console.log(answer)
-console.log("helllo")
+// console.log("helllo")
 let btn = document.querySelectorAll(".btn")
 console.log(btn)
 
